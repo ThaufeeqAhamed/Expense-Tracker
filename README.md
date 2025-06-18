@@ -37,6 +37,7 @@ A simple and user-friendly Flutter application to manage your daily expenses. Bu
    chmod +x ./hot_reload.sh
    ./hot_reload.sh
 
+- **Open developer tools to see the mobile view**
 ## 📂 Project Structure
  Project Structure
 
